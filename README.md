@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi everybody, You can call me DiCo 👋
+- 🔭 I’m internship for Viettel Network
+- 🌱 I’m currently learning network and data communication in UET - VietNam National University
+- 🤔 I’m looking for help with cloud and web.
+- 📫 How to reach me: [Facebook](https://www.facebook.com/dinhcong2k/), [Linkedln](https://www.linkedin.com/in/%C4%91%C3%A0o-c%C3%B4ng-8608b7217/) 
 
 <!--
 **daodinhcong2000/daodinhcong2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
